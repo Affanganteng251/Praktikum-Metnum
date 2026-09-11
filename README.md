@@ -1,0 +1,1 @@
+Metode numerik
